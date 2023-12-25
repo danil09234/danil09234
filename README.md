@@ -15,6 +15,8 @@
   </p>
 </div>
 
+---
+
 I am a 🐍 Python software developer with 5 years of experience in my own projects. I have worked on GUI applications, parsers, Telegram bots 🤖, and data processing. While Python is my primary language, I have also gained experience with C, C++, JS + HTML/CSS, and Java ☕.
 
 Programming, for me, is more than just a specialization. 💻✨
@@ -23,19 +25,19 @@ Programming, for me, is more than just a specialization. 💻✨
 
 
 <div align="center">
-    <h2>Frameworks</h2>
+    <h3>Frameworks</h3>
     <img src="https://kivy.org/static/images/logo_kivy_white.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Kivy Logo" title="FastAPI Logo" style="height: 5em;">
     <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
 </div>
 
 <div align="center">
-    <h2>Database</h2>
+    <h3>Database</h3>
     <img src="sqlite.svg" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
 </div>
 
 <div align="center">
-    <h2>VCS</h2>
+    <h3>VCS</h3>
     <img src="git.svg" alt="Git Logo" title="Git Logo" style="height: 5em; margin-right: 1em;">
     <img src="github.png" alt="Git Logo" title="GitHub Logo" style="height: 5em; margin-right: 1em;">
     <img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="GitLab Logo" title="GitLab Logo" style="height: 5em;">
