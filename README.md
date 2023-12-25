@@ -22,19 +22,19 @@ Programming, for me, is more than just a specialization. 💻✨
 ### 🔭 I’m currently working on Fiverr as a Python developer
 
 
-<div style="text-align: center">
+<div align="center">
     <h2>Frameworks</h2>
     <img src="https://kivy.org/static/images/logo_kivy_white.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Kivy Logo" title="FastAPI Logo" style="height: 5em;">
     <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
 </div>
 
-<div style="text-align: center">
+<div align="center">
     <h2>Database</h2>
     <img src="sqlite.svg" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
 </div>
 
-<div style="text-align: center">
+<div align="center">
     <h2>VCS</h2>
     <img src="git.svg" alt="Git Logo" title="Git Logo" style="height: 5em; margin-right: 1em;">
     <img src="github.png" alt="Git Logo" title="GitHub Logo" style="height: 5em; margin-right: 1em;">
