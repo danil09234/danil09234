@@ -29,6 +29,7 @@ Programming, for me, is more than just a specialization. 💻✨
     <img src="https://kivy.org/static/images/logo_kivy_white.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Kivy Logo" title="FastAPI Logo" style="height: 5em;">
     <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
+    <img src="https://flet.dev/img/logo.svg" alt="Flet Logo" title="Flet Logo" style="height: 5em;">
 </div>
 
 <div align="center">
