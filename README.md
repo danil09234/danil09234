@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" title="Python Logo" style="height: 8em;">
-<h2 align="center">Hey 👋, I'm Danylo</h3>
+  <p style="font-size: 1.5em; font-weight: bold; margin-top: 0;">Hey 👋, I'm Danylo</p>
 
   <p align="center">
     🐍 Python Developer
