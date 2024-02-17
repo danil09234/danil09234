@@ -42,7 +42,12 @@ Programming, for me, is more than just a specialization. 💻✨
 
 <div align="center">
     <h3>Database</h3>
-    <img src="sqlite.svg" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
+    <a href="https://www.sqlite.org/index.html">
+        <img src="sqlite.svg" alt="SQLite Logo" title="SQLite Logo" style="height: 5em;">
+    </a>
+    <a href="https://www.postgresql.org">
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" title="PostgreSQL Logo" style="height: 5em;">
+    </a>
 </div>
 
 <div align="center">
