@@ -41,7 +41,7 @@ Programming, for me, is more than just a specialization. 💻✨
 </div>
 
 <div align="center">
-    <h3>Database</h3>
+    <h3>Databases</h3>
     <a href="https://www.sqlite.org/index.html">
         <img src="sqlite.svg" alt="SQLite Logo" title="SQLite Logo" style="height: 5em;">
     </a>
