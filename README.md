@@ -27,7 +27,7 @@ Programming, for me, is more than just a specialization. 💻✨
 <div align="center">
     <h3>Frameworks</h3>
     <a href="https://kivy.org">
-        <img src="https://kivy.org/static/images/logo_kivy_white.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
     </a>
     <a href="https://fastapi.tiangolo.com">
         <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Kivy Logo" title="FastAPI Logo" style="height: 5em;">
