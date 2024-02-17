@@ -27,16 +27,16 @@ Programming, for me, is more than just a specialization. 💻✨
 <div align="center">
     <h3>Frameworks</h3>
     <a href="https://kivy.org">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
+        <img src="kivy.png" alt="Kivy Logo" title="Kivy Logo" style="height: 5em;">
     </a>
     <a href="https://fastapi.tiangolo.com">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Kivy Logo" title="FastAPI Logo" style="height: 5em;">
+        <img src="fastapi.png" alt="FastAPI Logo" title="FastAPI Logo" style="height: 5em;">
     </a>
     <a href="https://aiogram.dev">
-        <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
+        <img src="aiogram.png" alt="Aiogram Logo" title="Aiogram Logo" style="height: 5em;">
     </a>
     <a href="https://flet.dev">
-        <img src="https://flet.dev/img/logo.svg" alt="Flet Logo" title="Flet Logo" style="height: 5em;">
+        <img src="flet.svg" alt="Flet Logo" title="Flet Logo" style="height: 5em;">
     </a>
 </div>
 
@@ -46,7 +46,7 @@ Programming, for me, is more than just a specialization. 💻✨
         <img src="sqlite.svg" alt="SQLite Logo" title="SQLite Logo" style="height: 5em;">
     </a>
     <a href="https://www.postgresql.org">
-        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL Logo" title="PostgreSQL Logo" style="height: 5em;">
+        <img src="postgresql.png" alt="PostgreSQL Logo" title="PostgreSQL Logo" style="height: 5em;">
     </a>
 </div>
 
@@ -54,6 +54,6 @@ Programming, for me, is more than just a specialization. 💻✨
     <h3>VCS</h3>
     <img src="git.svg" alt="Git Logo" title="Git Logo" style="height: 5em; margin-right: 1em;">
     <img src="github.png" alt="Git Logo" title="GitHub Logo" style="height: 5em; margin-right: 1em;">
-    <img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="GitLab Logo" title="GitLab Logo" style="height: 5em;">
+    <img src="gitlab.svg" alt="GitLab Logo" title="GitLab Logo" style="height: 5em;">
 </div>
 <br />
