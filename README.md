@@ -17,7 +17,7 @@
 
 ---
 
-I am a 🐍 Python software developer with 5 years of experience in my own projects. I have worked on GUI applications, parsers, Telegram bots 🤖, and data processing. While Python is my primary language, I have also gained experience with C, C++, JS + HTML/CSS, and Java ☕.
+I am a 🐍 Python software developer with 5 years of experience in my own projects including over a year of dedicated involvement in commercial projects. I have worked on GUI/CLI applications, databases, parsers, Telegram bots 🤖, and data processing. While Python is my primary language, I have also gained experience with C, C++, JS + HTML/CSS, and Java ☕.
 
 Programming, for me, is more than just a specialization. 💻✨
 
